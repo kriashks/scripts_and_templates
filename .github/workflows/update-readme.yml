@@ -14,7 +14,7 @@ jobs:
 
       - name: Generate File Table
         run: |
-          python .github/scripts/generate_table.py
+          python .github/workflows/scripts/generate_table.py
           
       - name: Commit Changes
         run: |
