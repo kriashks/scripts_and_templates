@@ -1,3 +1,4 @@
+## Description: A script to split an entire disc mkv into multiple episodes if it has chapter markers
 # Author: Adarsh Krishnan
 # Tested on Python 3.10.10
 
